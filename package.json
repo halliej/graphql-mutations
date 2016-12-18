@@ -1,0 +1,19 @@
+{
+  "name": "graphql-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-graph.ql": "^1.0.2",
+    "graph.ql": "^2.0.0",
+    "object-assign": "^4.1.0",
+    "remarkable": "^1.7.1",
+    "to-slug-case": "^1.0.0"
+  }
+}
